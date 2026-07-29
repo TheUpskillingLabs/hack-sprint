@@ -11,7 +11,7 @@ For a 3-to-5 person Project team to successfully form and survive, they need two
 * **A Validated Frame:** A fresh, compelling way of looking at a stagnant problem.
 * **A Ripe Problem Owner:** A real-world stakeholder who has demonstrated actual interest or constructive friction in response to that frame.
 
-The hackathon is the catalyzer. It is an intensive, 8-hour creative sprint where design and engineering meet AI-assisted generation. The goal is to walk out at 5:30 PM with a diverse, highly expressive library of landing pages, pitch emails, and speculative press releases. Over the couple of weeks following the hackathon, upskillers will deploy this corpus into the real world to find that "ripe match"—the crucial signal that will dictate how final Project teams actually form.
+The hackathon is the catalyzer. It is an intensive, 8-hour creative sprint where design and engineering meet AI-assisted generation. The goal is to walk out at 5:30 PM with a diverse, highly expressive library of probes—including landing pages, pitch emails, speculative press releases, clickable prototype apps, interactive demos, and proof-of-concept tools. Over the couple of weeks following the hackathon, upskillers will deploy this corpus into the real world to find that "ripe match"—the crucial signal that will dictate how final Project teams actually form.
 
 ## Part 2: The Engine — Frame Innovation
 
@@ -37,7 +37,7 @@ Because real-world testing happens after the event, the hackathon operates as a 
 
 ### Core Mechanics of the Day
 
-* **High-Volume Design & Engineering:** Upskillers will use AI to rapidly design and generate testing kits for the agreed-upon frames. A complete "Probe Portfolio" might include a localized fake-door landing page, a targeted cold email, and a provocative survey.
+* **High-Volume Design & Engineering:** Upskillers will use AI to rapidly design and generate testing kits for the agreed-upon frames. A complete "Probe Portfolio" might include a localized fake-door landing page, a targeted cold email, a provocative survey, a clickable prototype app, an interactive tool demo, or a working proof-of-concept. The medium matters less than the message—each probe is designed to test if a specific stakeholder will engage with the reframed problem.
 * **Alpha Testing In Situ:** Because we aren't launching to the public today, participants will rigorously alpha-test their probes on each other. If someone finishes early, they must "Red Team" their neighbor's work, pointing out why a stakeholder would ignore the probe and sparking immediate, creative iteration.
 * **Anti-Slacker Constraints:** There is no "I'm done" after 20 minutes. If an upskiller finishes engineering a probe targeting a city planner, they must use the remaining micro-sprint time to pivot the exact same frame to target a corporate executive or a non-profit leader. Every minute is used to stretch the frame's potential.
 
@@ -46,9 +46,9 @@ Because real-world testing happens after the event, the hackathon operates as a 
 To keep energy high and output relentless, the 8-hour day (9:30 AM – 5:30 PM) is time-boxed into distinct, high-intensity phases.
 
 * **9:30 AM – 10:30 AM | Frame Lock-In & Strategy:** The pod comes together to synthesize their prep work. They collaboratively select 3 to 5 high-priority frames to explore and assign target stakeholders for each.
-* **10:30 AM – 12:30 PM | Micro-Sprint 1 (Design & Engineering):** The pod breaks into silent, parallel co-working. Upskillers begin prompting AI, designing assets, and drafting copy to build out their first complete Probe Portfolios.
+* **10:30 AM – 12:30 PM | Micro-Sprint 1 (Design & Engineering):** The pod breaks into silent, parallel co-working. Upskillers begin prompting AI, designing assets, drafting copy, and engineering clickable prototypes or interactive demos to build out their first complete Probe Portfolios. Whether it's a landing page, a demo video, a working app, or an interactive tool—the goal is rapid, expressive creation.
 * **12:30 PM – 1:15 PM | Lunch & Recharge:** A hard break to step away from the screens.
-* **1:15 PM – 3:15 PM | Micro-Sprint 2 (Pivot & Expand):** Upskillers apply the "Stakeholder Variant" rule. They must take the probes they built in the morning and dynamically pivot the messaging and design to target entirely different stakeholders, rapidly expanding the pod's corpus.
+* **1:15 PM – 3:15 PM | Micro-Sprint 2 (Pivot & Expand):** Upskillers apply the "Stakeholder Variant" rule. They must take the probes they built in the morning—whether a landing page, clickable prototype, or interactive tool—and dynamically pivot the messaging, design, and UX to target entirely different stakeholders, rapidly expanding the pod's corpus. The underlying frame stays constant; the execution transforms for each new audience.
 * **3:15 PM – 4:00 PM | The "Red Team" Checkpoint:** Upskillers pair up to alpha-test. They ruthlessly review each other's probes, searching for generic AI jargon or weak value propositions, and use the remaining time to patch vulnerabilities.
 * **4:00 PM – 5:30 PM | Lightning Demos:** The day culminates in rapid-fire presentations. Upskillers showcase the hypotheses they designed, the frames they targeted, and the specific stakeholders they intend to test these probes on in the coming weeks.
 
